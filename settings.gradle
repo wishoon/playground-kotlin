@@ -1,0 +1,5 @@
+rootProject.name = 'kt'
+
+include(
+        "kotlin-racingcar"
+)
